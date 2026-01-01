@@ -1,12 +1,18 @@
 Features
+
+
 . Mood-based music playback
 . Random song selection for variety
 . One-key music stop option (s)
 . Works with local MP3 files (offline)
 . Extendable to AI-based face or voice emotion detection
 
+
+
  
  Technologies Used
+
+ 
 Python 3
 Pygame – for playing MP3 files
 OS Module – for file and folder handling
@@ -17,7 +23,11 @@ DeepFace (CNN-based emotion recognition)
 
 
 
+
+
 How to Run the Project:-
+
+
 Clone the repository
 Copy code
 Bash
@@ -35,8 +45,12 @@ Copy code
 Bash
 python music_ai.py
 
+
+
  
  How It Works
+
+ 
 User enters their mood (happy, sad, or chill)
 The program searches the corresponding folder
 A random MP3 file is selected
@@ -44,7 +58,10 @@ Music starts playing
 Press s + Enter to stop the song
 
 
+
 concept of AI:-
+
+
 Current Version: Rule-based decision system
 Upgraded Version: CNN-based facial emotion recognition using DeepFace
 AI Domain: Affective Computing
