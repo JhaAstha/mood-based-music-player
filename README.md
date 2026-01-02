@@ -10,7 +10,8 @@ Features
 
 
  
- Technologies Used
+ Technologies Used are as listed below
+ 
 
  
 Python 3
