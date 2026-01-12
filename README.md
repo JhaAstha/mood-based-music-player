@@ -19,11 +19,17 @@ Features of this player:-
 
  
 Python 3
+
 Pygame – for playing MP3 files
+
 OS Module – for file and folder handling
+
 Random Module – for random song selection
+
 (Optional/Planned AI Integration)
+
 OpenCV
+
 DeepFace (CNN-based emotion recognition)
 
 
