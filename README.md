@@ -1,16 +1,20 @@
-Features
+Features of this player:-
 
 
 . Mood-based music playback
+
 . Random song selection for variety
+
 . One-key music stop option (s)
+
 . Works with local MP3 files (offline)
+
 . Extendable to AI-based face or voice emotion detection
 
 
 
  
- Technologies Used are as listed below
+ Technologies that are Used :-
  
 
  
