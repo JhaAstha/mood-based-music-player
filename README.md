@@ -40,13 +40,22 @@ How to Run the Project:-
 
 
 Clone the repository
+
 Copy code
+
 Bash
-git clone https://github.com/your-username/music-player-based-on-mood.git
-Navigate to the project folder
+
+git clone https://github.com/JhaAstha/mood-based-music-player.git
+
+Navigate to the project folde
+
 Copy code
+
 Bash
+
 cd AIPlayer
+
+then :-
 Install required library
 Copy code
 Bash
