@@ -82,6 +82,6 @@ Press s + Enter to stop the song
 concept of AI:-
 
 
-Current Version: Rule-based decision system
-Upgraded Version: CNN-based facial emotion recognition using DeepFace
-AI Domain: Affective Computing
+Current Version:- Rule-based decision system
+Upgraded Version:- CNN-based facial emotion recognition using DeepFace
+AI Domain:- Affective Computing
