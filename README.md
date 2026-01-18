@@ -14,7 +14,7 @@ Features of this player:-
 
 
  
- Technologies that are Used :-
+ Technologies that are Used in this :-
  
 
  
