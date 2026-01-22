@@ -7,7 +7,7 @@ Features of this player:-
 
 . One-key music stop option (s)
 
-. Works with local MP3 files (offline)
+. Works with local MP3 files (offline) 
 
 . Extendable to AI-based face or voice emotion detection
 
