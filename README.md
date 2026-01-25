@@ -9,7 +9,7 @@ Features of this player:-
 
 . Works with local MP3 files (offline) 
 
-. Extendable to AI-based face or voice emotion detection
+. Extendable to  AI-based face or voice emotion detection
 
 
 
