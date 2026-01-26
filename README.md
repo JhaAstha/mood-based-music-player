@@ -5,7 +5,7 @@ Features of this player:-
 
 . Random song selection for variety
 
-. One-key music stop option (s)
+. One-key music stop option (s) 
 
 . Works with local MP3 files (offline) 
 
